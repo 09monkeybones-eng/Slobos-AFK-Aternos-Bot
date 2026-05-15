@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MIGHTY194BURST.aternos.me:30477",
+    "ip": "MIGHTY194BURST.aternos.me",
     "port": 30477,
     "version": "",
     "try-creative": false
